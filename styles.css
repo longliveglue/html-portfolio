@@ -75,7 +75,7 @@ h1 {
 }
 
 .profile {
-  height: 45vh;
+  height: 50vh;
   display: flex;
   justify-content: start;
   align-items: center;
@@ -115,8 +115,8 @@ h1 {
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   padding: 10vh 5vh 10vh 5vh;
-  justify-items: end;
-  gap: 3vh;
+  justify-items: center;
+  gap: 2vh;
   margin: 0;
 }
 
